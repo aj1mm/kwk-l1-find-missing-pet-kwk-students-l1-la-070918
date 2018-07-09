@@ -31,7 +31,7 @@ Use the commands we've learned to move the animals to their right places. When e
 
 ### Let's Move One File Together
 
-Notice that the `painting-elephants.jpg` image is located in `(lab root) > cats > indoor > back-alley`. But really, the painting elephant should go inside of `(lab root) > elephants > painters`. 
+Notice that the `painting-elephants.jpg` image is located in `(lab root) > cats > indoor > back-alley`. But really, the painting elephant should go inside of `(labk root) > elephants > painters`. 
 
 We can move this elephant image by entering in terminal from the main directory of this project...
 
